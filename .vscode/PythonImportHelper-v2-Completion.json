@@ -1,0 +1,638 @@
+[
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "isExtraImport": true,
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ContactRequest",
+        "importPath": "app.schemas.contact",
+        "description": "app.schemas.contact",
+        "isExtraImport": true,
+        "detail": "app.schemas.contact",
+        "documentation": {}
+    },
+    {
+        "label": "ContactRequest",
+        "importPath": "app.schemas.contact",
+        "description": "app.schemas.contact",
+        "isExtraImport": true,
+        "detail": "app.schemas.contact",
+        "documentation": {}
+    },
+    {
+        "label": "send_contact_notification",
+        "importPath": "app.utils.contact.email_service",
+        "description": "app.utils.contact.email_service",
+        "isExtraImport": true,
+        "detail": "app.utils.contact.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "QuoteRequest",
+        "importPath": "app.schemas.quote",
+        "description": "app.schemas.quote",
+        "isExtraImport": true,
+        "detail": "app.schemas.quote",
+        "documentation": {}
+    },
+    {
+        "label": "QuoteRequest",
+        "importPath": "app.schemas.quote",
+        "description": "app.schemas.quote",
+        "isExtraImport": true,
+        "detail": "app.schemas.quote",
+        "documentation": {}
+    },
+    {
+        "label": "send_admin_notification",
+        "importPath": "app.utils.email_service",
+        "description": "app.utils.email_service",
+        "isExtraImport": true,
+        "detail": "app.utils.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "app.schemas.admin_schema",
+        "description": "app.schemas.admin_schema",
+        "isExtraImport": true,
+        "detail": "app.schemas.admin_schema",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "importPath": "app.controllers.admin_controller",
+        "description": "app.controllers.admin_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.admin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "importPath": "app.controllers.admin_controller",
+        "description": "app.controllers.admin_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.admin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "submit_contact_controller",
+        "importPath": "app.controllers.contact_controller",
+        "description": "app.controllers.contact_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.contact_controller",
+        "documentation": {}
+    },
+    {
+        "label": "submit_quote_controller",
+        "importPath": "app.controllers.quote_controller",
+        "description": "app.controllers.quote_controller",
+        "isExtraImport": true,
+        "detail": "app.controllers.quote_controller",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "sib_api_v3_sdk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sib_api_v3_sdk",
+        "description": "sib_api_v3_sdk",
+        "detail": "sib_api_v3_sdk",
+        "documentation": {}
+    },
+    {
+        "label": "ApiException",
+        "importPath": "sib_api_v3_sdk.rest",
+        "description": "sib_api_v3_sdk.rest",
+        "isExtraImport": true,
+        "detail": "sib_api_v3_sdk.rest",
+        "documentation": {}
+    },
+    {
+        "label": "ApiException",
+        "importPath": "sib_api_v3_sdk.rest",
+        "description": "sib_api_v3_sdk.rest",
+        "isExtraImport": true,
+        "detail": "sib_api_v3_sdk.rest",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "quote",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "admin_router",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "quote",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "contact",
+        "importPath": "app.routes",
+        "description": "app.routes",
+        "isExtraImport": true,
+        "detail": "app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "kind": 2,
+        "importPath": "app.controllers.admin_controller",
+        "description": "app.controllers.admin_controller",
+        "peekOfCode": "def login_user(user: dict):\n    db_user = db.admin.find_one({\"username\": user[\"username\"]})  # changed users → admin\n    if not db_user or not pwd_context.verify(user[\"password\"], db_user[\"hashed_password\"]):\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Incorrect username or password\"\n        )\n    access_token = create_access_token(data={\"sub\": db_user[\"username\"]}, expires_delta=timedelta(minutes=30))\n    return {\"access_token\": access_token, \"token_type\": \"bearer\"}\ndef create_user(user: dict):",
+        "detail": "app.controllers.admin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "app.controllers.admin_controller",
+        "description": "app.controllers.admin_controller",
+        "peekOfCode": "def create_user(user: dict):\n    if db.admin.find_one({\"username\": user[\"username\"]}):  # changed users → admin\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"Username already exists\"\n        )\n    hashed_password = pwd_context.hash(user[\"password\"])\n    db_user = {\"username\": user[\"username\"], \"hashed_password\": hashed_password}\n    db.admin.insert_one(db_user)  # changed users → admin\n    return {\"username\": user[\"username\"]}",
+        "detail": "app.controllers.admin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "app.controllers.admin_controller",
+        "description": "app.controllers.admin_controller",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef login_user(user: dict):\n    db_user = db.admin.find_one({\"username\": user[\"username\"]})  # changed users → admin\n    if not db_user or not pwd_context.verify(user[\"password\"], db_user[\"hashed_password\"]):\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Incorrect username or password\"\n        )\n    access_token = create_access_token(data={\"sub\": db_user[\"username\"]}, expires_delta=timedelta(minutes=30))\n    return {\"access_token\": access_token, \"token_type\": \"bearer\"}",
+        "detail": "app.controllers.admin_controller",
+        "documentation": {}
+    },
+    {
+        "label": "submit_contact_controller",
+        "kind": 2,
+        "importPath": "app.controllers.contact_controller",
+        "description": "app.controllers.contact_controller",
+        "peekOfCode": "def submit_contact_controller(contact: ContactRequest):\n    # Save contact form in DB\n    db.contacts.insert_one(contact.dict())\n    # Send email notification to admin\n    send_contact_notification(contact)\n    return {\"message\": \"Contact form submitted successfully\"}",
+        "detail": "app.controllers.contact_controller",
+        "documentation": {}
+    },
+    {
+        "label": "submit_quote_controller",
+        "kind": 2,
+        "importPath": "app.controllers.quote_controller",
+        "description": "app.controllers.quote_controller",
+        "peekOfCode": "def submit_quote_controller(quote: QuoteRequest):\n    db.quotes.insert_one(quote.dict())  # Save to DB\n    send_admin_notification(quote)      # Send email to admin\n    return {\"message\": \"Quote submitted successfully\"}",
+        "detail": "app.controllers.quote_controller",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.routes.admin_router",
+        "description": "app.routes.admin_router",
+        "peekOfCode": "def login(username: str = Form(...), password: str = Form(...)):\n    return login_user({\"username\": username, \"password\": password})\n@router.post(\"/users\")\ndef register(username: str = Form(...), password: str = Form(...)):\n    return create_user({\"username\": username, \"password\": password})",
+        "detail": "app.routes.admin_router",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.routes.admin_router",
+        "description": "app.routes.admin_router",
+        "peekOfCode": "def register(username: str = Form(...), password: str = Form(...)):\n    return create_user({\"username\": username, \"password\": password})",
+        "detail": "app.routes.admin_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routes.admin_router",
+        "description": "app.routes.admin_router",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/login\", response_model=Token)\ndef login(username: str = Form(...), password: str = Form(...)):\n    return login_user({\"username\": username, \"password\": password})\n@router.post(\"/users\")\ndef register(username: str = Form(...), password: str = Form(...)):\n    return create_user({\"username\": username, \"password\": password})",
+        "detail": "app.routes.admin_router",
+        "documentation": {}
+    },
+    {
+        "label": "submit_contact",
+        "kind": 2,
+        "importPath": "app.routes.contact",
+        "description": "app.routes.contact",
+        "peekOfCode": "def submit_contact(contact: ContactRequest):\n    return submit_contact_controller(contact)",
+        "detail": "app.routes.contact",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routes.contact",
+        "description": "app.routes.contact",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/contact\")\ndef submit_contact(contact: ContactRequest):\n    return submit_contact_controller(contact)",
+        "detail": "app.routes.contact",
+        "documentation": {}
+    },
+    {
+        "label": "submit_quote",
+        "kind": 2,
+        "importPath": "app.routes.quote",
+        "description": "app.routes.quote",
+        "peekOfCode": "def submit_quote(quote: QuoteRequest):\n    return submit_quote_controller(quote)",
+        "detail": "app.routes.quote",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routes.quote",
+        "description": "app.routes.quote",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/quote\")\ndef submit_quote(quote: QuoteRequest):\n    return submit_quote_controller(quote)",
+        "detail": "app.routes.quote",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "app.schemas.admin_schema",
+        "description": "app.schemas.admin_schema",
+        "peekOfCode": "class UserLogin(BaseModel):\n    username: str\n    password: str\nclass Token(BaseModel):\n    access_token: str\n    token_type: str",
+        "detail": "app.schemas.admin_schema",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "app.schemas.admin_schema",
+        "description": "app.schemas.admin_schema",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str",
+        "detail": "app.schemas.admin_schema",
+        "documentation": {}
+    },
+    {
+        "label": "ContactRequest",
+        "kind": 6,
+        "importPath": "app.schemas.contact",
+        "description": "app.schemas.contact",
+        "peekOfCode": "class ContactRequest(BaseModel):\n    name: str\n    email: EmailStr\n    company: str | None = None\n    message: str",
+        "detail": "app.schemas.contact",
+        "documentation": {}
+    },
+    {
+        "label": "QuoteRequest",
+        "kind": 6,
+        "importPath": "app.schemas.quote",
+        "description": "app.schemas.quote",
+        "peekOfCode": "class QuoteRequest(BaseModel):\n    type: str  # \"individual\" or \"organization\"\n    full_name: str\n    email: EmailStr\n    phone: str\n    organization_name: Optional[str] = None\n    gst_number: Optional[str] = None\n    location: str\n    quantity: int\n    contact_method: str",
+        "detail": "app.schemas.quote",
+        "documentation": {}
+    },
+    {
+        "label": "send_contact_notification",
+        "kind": 2,
+        "importPath": "app.utils.contact.email_service",
+        "description": "app.utils.contact.email_service",
+        "peekOfCode": "def send_contact_notification(contact_data):\n    configuration = sib_api_v3_sdk.Configuration()\n    configuration.api_key['api-key'] = os.getenv(\"BREVO_API_KEY\")\n    api_instance = sib_api_v3_sdk.TransactionalEmailsApi(\n        sib_api_v3_sdk.ApiClient(configuration)\n    )\n    subject = f\"New Contact Form Submission from {contact_data.name}\"\n    html_content = f\"\"\"\n    <h3>New Contact Message</h3>\n    <ul>",
+        "detail": "app.utils.contact.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "send_admin_notification",
+        "kind": 2,
+        "importPath": "app.utils.email_service",
+        "description": "app.utils.email_service",
+        "peekOfCode": "def send_admin_notification(quote_data):\n    configuration = sib_api_v3_sdk.Configuration()\n    configuration.api_key['api-key'] = os.getenv(\"BREVO_API_KEY\")\n    api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))\n    subject = f\"New Quote Request from {quote_data.full_name}\"\n    html_content = f\"\"\"\n    <h3>New Quote Request Details</h3>\n    <ul>\n        <li><strong>Name:</strong> {quote_data.full_name}</li>\n        <li><strong>Email:</strong> {quote_data.email}</li>",
+        "detail": "app.utils.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: timedelta):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + expires_delta\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\", \"167c4061855c882442319d19268a2be7ff62f3eaab05518a9bc0881c39dec602\")\nALGORITHM = \"HS256\"\ndef create_access_token(data: dict, expires_delta: timedelta):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + expires_delta\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "app.admin",
+        "description": "app.admin",
+        "peekOfCode": "ALGORITHM = \"HS256\"\ndef create_access_token(data: dict, expires_delta: timedelta):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + expires_delta\n    to_encode.update({\"exp\": expire})\n    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\n    return encoded_jwt",
+        "detail": "app.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "MONGO_URI = os.getenv(\"MONGO_URI\")\nDATABASE_NAME = os.getenv(\"DATABASE_NAME\")",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "app.config",
+        "description": "app.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv(\"DATABASE_NAME\")",
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "client = MongoClient(MONGO_URI)\ndb = client[DATABASE_NAME]",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "db = client[DATABASE_NAME]",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI()\n# Enable CORS for frontend communication\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"http://localhost:3000\"],  # Adjust if frontend URL changes\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nload_dotenv()",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
