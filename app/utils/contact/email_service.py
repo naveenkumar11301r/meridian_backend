@@ -24,8 +24,8 @@ def send_contact_notification(contact_data):
     </ul>
     """
 
-    sender = {"name": "Meridian Contact", "email": "kaviyarasan912001@gmail.com"}
-    to = [{"email": "kaviyarasan912001@gmail.com", "name": "Admin"}]  # Replace with admin email
+    sender = {"name": "Meridian Contact", "email": "nksmarty701@gmail.com"}
+    to = [{"email": "nksmarty701@gmail.com", "name": "Admin"}]  # Replace with admin email
 
     send_smtp_email = sib_api_v3_sdk.SendSmtpEmail(
         to=to,
